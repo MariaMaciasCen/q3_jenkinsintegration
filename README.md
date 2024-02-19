@@ -9,8 +9,11 @@ Integrate Jenkins with GitHub
 
 4. Github Webhook Configuration
 
-5. Test
+5. Display JENKINS_URL & BUILD_ID
 
-6. Check Builds
+6. Test
 
-7. Success!
+7. Check Builds
+
+8. Success!
+
