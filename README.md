@@ -16,4 +16,3 @@ Integrate Jenkins with GitHub
 7. Check Builds
 
 8. Success!
-
