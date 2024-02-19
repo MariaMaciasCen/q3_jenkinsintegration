@@ -12,4 +12,3 @@ Integrate Jenkins with GitHub
 5. Test
 
 6. Check Builds
-
