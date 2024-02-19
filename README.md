@@ -1,4 +1,4 @@
-# q3_jenkinsintegration
+# q3_jenkinsintegration with Github
 Integrate Jenkins with GitHub 
 
 1. AWS EC2 Instance
